@@ -774,8 +774,16 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
-.cid-s6EwCl6p85 {
+.cid-s6EJvXeQxd {
   padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s6EJvXeQxd P {
+  color: #767676;
+}
+.cid-s6EwCl6p85 {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
